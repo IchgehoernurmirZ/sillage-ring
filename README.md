@@ -1,7 +1,7 @@
 
-  # Define styles and components
+  # Fragrance Ring app
 
-  This is a code bundle for Define styles and components. The original project is available at https://www.figma.com/design/Ut5NDL5hImH923DiqGNeen/Define-styles-and-components.
+  This is a demo app for L'Oreal Brandstorm 2026.
 
   ## Running the code
 
